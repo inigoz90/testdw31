@@ -2,7 +2,7 @@
 
 echo "hola mundo";
 
-echo "Adios mundo";
+echo "prueba de modificacion ";
 echo "Adios boludo";
  echo "hello world ";
 
