@@ -2,7 +2,7 @@
 
 echo "hola mundo";
 
-echo "Adios mundo";
+echo "**********************Adios mundo";
 
 echo "hasta luego mundo";
 
