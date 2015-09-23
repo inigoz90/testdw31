@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-echo "..............hola +++++++++ mundo flojo mundo";
+echo "                ";
 =======
 echo "diario vasco";
 >>>>>>> ff59dffcbf123c488f0b84e19d84a5b6264e9309
