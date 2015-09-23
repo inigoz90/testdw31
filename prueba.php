@@ -1,6 +1,6 @@
 <?php
 
-echo "hola mundo.....";
+echo "adios mundo.....";
 echo "ssssssssssssssssssssssssssss";
 <<<<<<< HEAD
 echo "**********************Adios mundo";
