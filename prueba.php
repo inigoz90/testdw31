@@ -1,6 +1,10 @@
 <?php
 
-echo "hola mundo flojo mundo";
+<<<<<<< HEAD
+echo "..............hola mundo flojo mundo";
+=======
+echo "adios mundo.....";
+>>>>>>> 67b35c81cb53d6d7cd38babd777405ee4371e0db
 echo "ssssssssssssssssssssssssssss";
 <<<<<<< HEAD
 echo "**********************Adios mundo";
