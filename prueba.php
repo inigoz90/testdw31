@@ -1,7 +1,11 @@
 <?php
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "..............hola +++++++++ mundo flojo mundo";
+=======
+echo "diario vasco";
+>>>>>>> ff59dffcbf123c488f0b84e19d84a5b6264e9309
 =======
 echo "adios mundo.....";
 >>>>>>> 67b35c81cb53d6d7cd38babd777405ee4371e0db
